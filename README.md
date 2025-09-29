@@ -49,7 +49,7 @@ Exploratory-Data-Analysis-Demo/
 │   ├── pair_plot_visualization.png    # Pairplot of Key Variables
 │   └── multi-dimensional_analysis.png # Multi-dimensional analysis
 ├── reports/
-│   └── EDA_Output.html              # Notebook Run Output in HTML
+│   ├── EDA_Output.html              # Notebook Run Output in HTML
 │   ├── EDA_Report.pdf               # Comprehensive PDF report
 │   └── key_insights.md              # Summary of findings
 └── README.md                        # Project documentation
